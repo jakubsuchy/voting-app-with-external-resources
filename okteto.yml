@@ -36,7 +36,7 @@ destroy:
 external:
   mongodb:
     icon: database
-    notes: README.md
+    notes: docs/atlas.md
     endpoints:
     - name: Try it out!
       url: https://github.com/okteto/voting-app-with-external-resources
