@@ -45,11 +45,6 @@ external:
     notes: docs/lambda.md
     endpoints:
     - name: function
-  atlas:
-    icon: mongodb
-    notes: docs/atlas.md
-    endpoints:
-    - name: dashboard
       
 dev:
   vote:
