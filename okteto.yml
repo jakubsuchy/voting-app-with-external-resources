@@ -39,7 +39,7 @@ external:
     notes: docs/atlas.md
     endpoints:
     - name: Try it out!
-      url: https://github.com/okteto/voting-app-with-external-resources
+      url: https://cloud.mongodb.com/v2/642e1b2d158d147ee1909e
   lambda:
     icon: function
     notes: docs/lambda.md
