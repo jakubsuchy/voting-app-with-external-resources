@@ -35,13 +35,13 @@ destroy:
 
 external:
   readme:
-    icon: okteto
+    icon: default
     notes: README.md
     endpoints:
     - name: Try it out!
       url: https://github.com/okteto/voting-app-with-external-resources
   lambda:
-    icon: aws
+    icon: default
     notes: docs/lambda.md
     endpoints:
     - name: function
