@@ -34,14 +34,14 @@ destroy:
         sam delete --no-prompts --stack-name "${OKTETO_NAMESPACE}-voting-texkhnclxd" --region us-east-1
 
 external:
-  readme:
-    icon: default
+  mongodb:
+    icon: database
     notes: README.md
     endpoints:
     - name: Try it out!
       url: https://github.com/okteto/voting-app-with-external-resources
   lambda:
-    icon: default
+    icon: function
     notes: docs/lambda.md
     endpoints:
     - name: function
